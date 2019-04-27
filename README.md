@@ -8,7 +8,7 @@ Working with python 3 only.
 4. Now you can send Single or Bulk SMS.
 
 After Settings update, your data will be stored to new file smssenderdb.pickle. If you will have problems with saving,
-open permission (read, write) for file or folder where is main file stored.
+open permission (read, write) for file or folder where is main file is stored.
 
 
 ![python sms](https://repository-images.githubusercontent.com/183734063/854caf80-68dc-11e9-8694-8ce512b70833)
