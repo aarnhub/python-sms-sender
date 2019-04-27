@@ -12,3 +12,8 @@ open permission (read, write) for file or folder where is main file is stored.
 
 
 ![python sms](https://repository-images.githubusercontent.com/183734063/854caf80-68dc-11e9-8694-8ce512b70833)
+
+Video tutorial Termux SMS script:
+
+<a href="https://www.youtube.com/watch?v=gAWfjiNL9PE" target="_blank"><img src="http://img.youtube.com/vi/gAWfjiNL9PE/0.jpg" 
+alt="python bulk sms api" width="424" height="238" border="10" /></a>
