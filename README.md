@@ -1,4 +1,4 @@
-# python-sms-sender
+# python sms sender ( bulk sms )
 Python SMS sender with SMS Gateway API. Send SMS messages from Command Line / Terminal
 
 1. Download and run script
