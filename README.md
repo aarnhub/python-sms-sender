@@ -17,3 +17,6 @@ Video tutorial Termux SMS script:
 
 <a href="https://www.youtube.com/watch?v=gAWfjiNL9PE" target="_blank"><img src="http://img.youtube.com/vi/gAWfjiNL9PE/0.jpg" 
 alt="python bulk sms api" width="424" height="238" border="10" /></a>
+
+<br>
+<a href="https://www.facebook.com/chakabiz" target="_blank">https://www.facebook.com/chakabiz/</a>
