@@ -10,9 +10,9 @@ SMS Sender Working with python 3 only.
 After Settings update, your data will be stored to new file smssenderdb.pickle. If you will have problems with saving,
 open permission (read, write) for file or folder where is main file is stored.
 
-Additionaly:
-q. Can you add other operator (sms gateway connection)?
-a. Yes. I can add any sms gateway API connection (by request only, contact me on Facebook)
+Additionaly:<br>
+q. Can you add other operator (sms gateway connection)?<br>
+a. Yes. I can add any sms gateway API connection (by request only, contact me on Facebook)<br>
 
 
 ![python sms](https://repository-images.githubusercontent.com/183734063/854caf80-68dc-11e9-8694-8ce512b70833)
